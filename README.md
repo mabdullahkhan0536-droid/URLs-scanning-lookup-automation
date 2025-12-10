@@ -13,7 +13,7 @@ How to Use
 2) Prepare your CSV file
   
 - When you run the script (URLs.py) , it will prompt you to provide a CSV file.
-- The CSV must contain a header in the first row, and all the URLs addresses you want to scan should be listed in the first column under that header.
+- The CSV must contain a header in the first row, and all the URLs you want to scan should be listed in the first column under that header.
 
 3) Output
    
